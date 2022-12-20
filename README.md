@@ -1,7 +1,3 @@
-# Stock-Multi-Clustering-
-
-
-Status
 
 <h1 align="center">Multi Clustering Development project on stock</h1>
 <h3 >Baptiste Loyer</h2>
