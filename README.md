@@ -4,7 +4,7 @@
 </h3>
 
 <h4 align="center">
-	🚧 Development project using Python and Sk Learn 🚀   🚧
+	 Development project using Python and Sk Learn 🚀   
 </h4>
 
 <hr>
